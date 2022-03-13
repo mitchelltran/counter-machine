@@ -1,0 +1,14 @@
+/home/manonymous/rust-counter/contract/target/debug/deps/target_lexicon-9a36ac966395c6d2.rmeta: /home/manonymous/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.10.0/src/lib.rs /home/manonymous/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.10.0/src/host.rs /home/manonymous/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.10.0/src/parse_error.rs /home/manonymous/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.10.0/src/targets.rs /home/manonymous/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.10.0/src/triple.rs /home/manonymous/rust-counter/contract/target/debug/build/target-lexicon-63a50d546cbc84e7/out/host.rs
+
+/home/manonymous/rust-counter/contract/target/debug/deps/libtarget_lexicon-9a36ac966395c6d2.rlib: /home/manonymous/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.10.0/src/lib.rs /home/manonymous/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.10.0/src/host.rs /home/manonymous/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.10.0/src/parse_error.rs /home/manonymous/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.10.0/src/targets.rs /home/manonymous/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.10.0/src/triple.rs /home/manonymous/rust-counter/contract/target/debug/build/target-lexicon-63a50d546cbc84e7/out/host.rs
+
+/home/manonymous/rust-counter/contract/target/debug/deps/target_lexicon-9a36ac966395c6d2.d: /home/manonymous/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.10.0/src/lib.rs /home/manonymous/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.10.0/src/host.rs /home/manonymous/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.10.0/src/parse_error.rs /home/manonymous/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.10.0/src/targets.rs /home/manonymous/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.10.0/src/triple.rs /home/manonymous/rust-counter/contract/target/debug/build/target-lexicon-63a50d546cbc84e7/out/host.rs
+
+/home/manonymous/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.10.0/src/lib.rs:
+/home/manonymous/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.10.0/src/host.rs:
+/home/manonymous/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.10.0/src/parse_error.rs:
+/home/manonymous/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.10.0/src/targets.rs:
+/home/manonymous/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.10.0/src/triple.rs:
+/home/manonymous/rust-counter/contract/target/debug/build/target-lexicon-63a50d546cbc84e7/out/host.rs:
+
+# env-dep:OUT_DIR=/home/manonymous/rust-counter/contract/target/debug/build/target-lexicon-63a50d546cbc84e7/out

@@ -1,0 +1,1 @@
+{"rustc":14330414595928666026,"features":"[]","target":2764079762175307939,"profile":12637318739757120569,"path":15974337826989830376,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/wasmparser-d53fdeb6e3f59521/dep-lib-wasmparser"}}],"rustflags":["-C","link-args=-s"],"metadata":7658002042996229219,"config":2202906307356721367,"compile_kind":0}
